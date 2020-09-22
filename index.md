@@ -4,7 +4,6 @@ I am a Caltech Computer Science and Mathematics rising junior looking to apply p
 
 ### Education
 
-California Institute of Technology, 2018-2022. Majoring in Math+CS. GPA: 4.0.
-
-### Previous Projects and Experience
-
+California Institute of Technology, 2018-2022
+Majoring in Math+CS
+GPA: 4.0
